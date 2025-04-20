@@ -1,0 +1,206 @@
+
+/* Dark Mode Styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.dark-mode .container {
+  background-color: #1f1f1f;
+}
+
+.dark-mode .card {
+  background-color: #333;
+}
+
+.dark-mode .btn-dark {
+  background-color: #333;
+  border-color: #444;
+}
+
+.dark-mode .form-select {
+  background-color: #333;
+  color: #ffffff;
+}
+
+.dark-mode .spinner-border {
+  border-top-color: #ffffff;
+}
+
+/* Light Mode Styles */
+body {
+  background-color: #f8f9fa;
+  color: #212529;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  background-color: #ffffff;
+}
+
+/* Button Hover Effects */
+.btn-primary, .btn-info {
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover, .btn-info:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.flip-container {
+  perspective: 1000px;
+  width: 100%;
+  height: auto;
+}
+
+.flipper {
+  position: relative;
+  width: 100%;
+  transition: 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flip-container:hover .flipper {
+  transform: rotateY(180deg);
+}
+
+.front-img, .back-img {
+  width: 100%;
+  backface-visibility: hidden;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.front-img {
+  z-index: 2;
+}
+
+.back-img {
+  transform: rotateY(180deg);
+}
+
+
+/* Fade-In Effect */
+.fade-in {
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Dark Mode Toggle Button */
+#darkModeToggle {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark-mode #darkModeToggle {
+  background-color: #444;
+  color: #ffffff;
+}
+
+.position-fixed {
+  position: fixed;
+}
+
+.top-0 {
+  top: 15px;
+}
+
+.end-0 {
+  right: 15px;
+}
+
+.m-3 {
+  margin: 10px;
+}
+
+/* Star Ratings */
+.star-rating {
+  font-size: 1.2rem;
+  color: #ffd700;
+  margin-bottom: 0.5rem;
+}
+
+.rating-stars {
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: #ffc107;
+}
+
+.rating-stars:hover {
+  text-shadow: 0 0 3px gold;
+}
+/* Hero Section */
+.hero-section {
+  height: 90vh;
+  background: url('https://images.unsplash.com/photo-1511376777868-611b54f68947?auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+  position: relative;
+}
+
+.hero-section .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+  max-width: 700px;
+}
+
+.hero-content h1,
+.hero-content p {
+  color: #fff;
+}
+
+.hero-content a.btn {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hero-content a.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(255, 193, 7, 0.4);
+}
+
+/* Section Titles */
+h2, h3 {
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+  padding-bottom: 0.3em;
+  margin-top: 2rem;
+}
+
+h2::after, h3::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #ffc107;
+  margin: 0.5em auto 0;
+  border-radius: 2px;
+}
+

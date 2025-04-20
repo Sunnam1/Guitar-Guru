@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Yamaha F280",
+    "budget": 10000,
+    "genre": ["classical", "acoustic"],
+    "level": "beginner",
+    "price": "₹10,000",
+    "reviews": 4.5,
+    "youtube": "https://www.youtube.com/embed/kWlW3gnlbtw",
+    "purchase_link": "https://in.yamaha.com/products/musical_instruments/guitars_basses/acoustic_guitars/fg800.html",
+    "image": "https://yamaha.ndcdn.in/media/catalog/product/cache/9e0f31af0cdc06df956748b13dabad87/f/2/f280_natural-_1__1.jpg",
+    "details": {
+      "brand": "Yamaha",
+      "body_type": "Dreadnought",
+      "top_material": "Spruce",
+      "neck_material": "Nato"
+    }
+  },
+  {
+    "name": "Ibanez GRX40",
+    "budget": 20000,
+    "genre": ["metal", "rock"],
+    "level": "intermediate",
+    "price": "₹20,000",
+    "reviews": 4.2,
+    "youtube": "https://www.youtube.com/embed/1JvVnDFm4l4",
+    "purchase_link": "https://www.ibanez.com/usa/products/detail/grx40-lft-3001",
+    "image": "https://m.media-amazon.com/images/I/318sh5M1IPL._SY300_SX300_QL70_FMwebp_.jpg",
+    "details": {
+      "brand": "Ibanez",
+      "body_type": "Solid",
+      "top_material": "Poplar",
+      "neck_material": "Maple"
+    }
+  },
+  {
+    "name": "Fender CD-60",
+    "budget": 30000,
+    "genre": ["jazz", "classical"],
+    "level": "advanced",
+    "price": "₹30,000",
+    "reviews": 4.7,
+    "youtube": "https://www.youtube.com/embed/DV5J1fKGVmw",
+    "purchase_link": "https://www.fender.com/en-US/acoustic-guitars/dreadnought/fender-cd-60ce",
+    "image": "https://m.media-amazon.com/images/I/31Pcow7B+rL._SX300_SY300_.jpg",
+    "details": {
+      "brand": "Fender",
+      "body_type": "Dreadnought",
+      "top_material": "Solid Spruce",
+      "neck_material": "Mahogany"
+    }
+  },
+  {
+    "name": "Gibson Les Paul Standard",
+    "budget": 60000,
+    "genre": ["rock", "metal"],
+    "level": "advanced",
+    "price": "₹60,000",
+    "reviews": 4.8,
+    "youtube": "https://www.youtube.com/embed/j9VZ0nIrHHg",
+    "purchase_link": "https://www.gibson.com/Guitars/Les-Paul/Standard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2rhFoyiKEg3yOb2BR_YmJCsdpktAzHgn4Q&s",
+    "details": {
+      "brand": "Gibson",
+      "body_type": "Solid",
+      "top_material": "Maple",
+      "neck_material": "Mahogany"
+    }
+  },
+  {
+    "name": "Squier Stratocaster",
+    "budget": 15000,
+    "genre": ["rock", "blues"],
+    "level": "intermediate",
+    "price": "₹15,000",
+    "reviews": 4.0,
+    "youtube": "https://www.youtube.com/embed/kMnKNKM_U5s",
+    "purchase_link": "https://www.squierguitars.com/stratocaster",
+    "image": "https://www.bajaao.com/cdn/shop/files/FEN-0379600503_61bee453-fb83-44db-b689-c3d91cb0bdfb.jpg?v=1738217671",
+      "brand": "Squier",
+      "body_type": "Solid",
+      "top_material": "Poplar",
+      "neck_material": "Maple"
+    },
+  {
+    "name": "Fender American Professional II Stratocaster",
+    "budget": 80000,
+    "genre": ["rock", "jazz"],
+    "level": "advanced",
+    "price": "₹80,000",
+    "reviews": 4.9,
+    "youtube": "https://www.youtube.com/embed/0NTK9A0GhdA",
+    "purchase_link": "https://www.fender.com/en-US/stratocaster",
+    "image": "https://m.media-amazon.com/images/I/615VmPC9AZL._SX679_.jpg",
+    "details": {
+      "brand": "Fender",
+      "body_type": "Solid",
+      "top_material": "Alder",
+      "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Gretsch G2622 Streamliner",
+      "budget": 35000,
+      "genre": ["jazz", "blues"],
+      "level": "intermediate",
+      "price": "₹35,000",
+      "reviews": 4.4,
+      "youtube": "https://www.youtube.com/embed/4wLrIWYJqzs",
+      "purchase_link": "https://www.gretsch.com/guitars/streamliner/g2622-streamliner-center-block-double-cut/",
+      "image": "https://www.bajaao.com/cdn/shop/files/gretsch-electric-guitars-single-barrel-stain-gretsch-g2622-streamliner-electric-guitar-33254320275635.jpg?v=1690009425",
+      "details": {
+        "brand": "Gretsch",
+        "body_type": "Semi-Hollow",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "PRS SE Custom 24",
+      "budget": 40000,
+      "genre": ["rock", "metal", "blues"],
+      "level": "advanced",
+      "price": "₹40,000",
+      "reviews": 4.6,
+      "youtube": "https://www.youtube.com/embed/aGQZGvbnRVo",
+      "purchase_link": "https://prsguitars.com/se/custom24",
+      "image": "https://m.media-amazon.com/images/I/61miCbycolL._SX522_.jpg",
+      "details": {
+        "brand": "PRS",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Jackson JS22 Dinky",
+      "budget": 20000,
+      "genre": ["metal", "rock"],
+      "level": "beginner",
+      "price": "₹20,000",
+      "reviews": 4.6,
+      "youtube": "https://www.youtube.com/embed/M7Xr4mOl7Ew",
+      "purchase_link": "https://www.jacksonguitars.com/series/js/js-dinky/js22-dinky",
+      "image": "https://m.media-amazon.com/images/I/61TlG-TBMxL._SX679_.jpg",
+      "details": {
+        "brand": "Jackson",
+        "body_type": "Solid",
+        "top_material": "Poplar",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Gretsch G6136T Falcon ",
+      "budget": 150000,
+      "genre": ["rock", "jazz"],
+      "level": "advanced",
+      "price": "₹1,50,000",
+      "reviews": 4.9,
+      "youtube": "https://www.youtube.com/embed/FK76Kozg5iE",
+      "purchase_link": "https://www.gretsch.com/guitars/white-falcon/",
+      "image": "https://www.bajaao.com/cdn/shop/files/gretsch-electric-guitars-gretsch-g6136t-falcon-players-edition-electric-guitar-white-3708905357384.jpg?v=1690201129",
+      "details": {
+        "brand": "Gretsch",
+        "body_type": "Hollow",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Yamaha Pacifica 012",
+      "budget": 17500,
+      "genre": ["rock" , "hard rock","metal"] ,
+      "level": "intermediate",
+      "price": "₹17,500",
+      "reviews": 4.6,
+      "youtube": "https://www.youtube.com/embed/dummy_video_1",
+      "purchase_link": "https://www.example.com/guitar_1",
+      "image": "https://m.media-amazon.com/images/I/41AAqIZQJ8L._SY300_SX300_QL70_FMwebp_.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Rosewood",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Yamaha Revstar RSE20 ",
+      "budget": 45000,
+      "genre": ["rock","metal"],
+      "level": "advanced",
+      "price": "₹45,000",
+      "reviews": 4.7,
+      "youtube": "https://www.youtube.com/embed/dummy_video_1",
+      "purchase_link": "https://www.example.com/guitar_1",
+      "image": "https://yamaha.ndcdn.in/media/catalog/product/cache/9e0f31af0cdc06df956748b13dabad87/r/s/rse20_swift_blue_copy_1.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },{
+      "name": "Yamaha PAC112VM",
+      "budget": 32500,
+      "genre": ["rock" , "blues" , "metal"],
+      "level": "intermediate",
+      "price": "₹32,500",
+      "reviews": 4.2,
+      "youtube": "https://www.youtube.com/embed/dummy_video_1",
+      "purchase_link": "https://www.example.com/guitar_1",
+      "image": "https://yamaha.ndcdn.in/media/catalog/product/cache/9dc1522ad3a7607391f539810e42a604/0/4/04_6.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },{
+      "name": "Yamaha Revstar RSE20 Vintage White",
+      "budget": 45500,
+      "genre": ["rock" , "metal" , "metal"],
+      "level": "advanced",
+      "price": "₹45,500",
+      "reviews": 4.2,
+      "youtube": "https://www.youtube.com/embed/dummy_video_1",
+      "purchase_link": "https://www.example.com/guitar_1",
+      "image": "https://yamaha.ndcdn.in/media/catalog/product/cache/9e0f31af0cdc06df956748b13dabad87/r/s/rse_20_vintage_white_copy_1.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },{
+      "name": "Yamaha FSX80C ",
+      "budget": 13500,
+      "genre": ["classical"],
+      "level": "beginner",
+      "price": "₹13,500",
+      "reviews": 4.2,
+      "youtube": "https://www.youtube.com/embed/dummy_video_1",
+      "purchase_link": "https://www.example.com/guitar_1",
+      "image": "https://shalumusic.co.in/wp-content/uploads/2023/11/gl1.png",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },{
+      "name": "Yamaha FS80C",
+      "budget": 9000,
+      "genre": ["acoustic"],
+      "level": "beginner",
+      "price": "₹9,000",
+      "reviews": 4.2,
+      "youtube": "https://www.youtube.com/embed/dummy_video_1",
+      "purchase_link": "https://www.example.com/guitar_1",
+      "image": "https://yamaha.ndcdn.in/media/catalog/product/cache/9e0f31af0cdc06df956748b13dabad87/f/s/fs80c_black.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Spruce",
+        "neck_material": "Tonewood"
+      }
+    },
+    {
+      "name": "Fender Model 2",
+      "budget": 11500,
+      "genre": ["rock"],
+      "level": "beginner",
+      "price": "₹11,500",
+      "reviews": 4.5,
+      "youtube": "https://www.youtube.com/embed/dummy_video_2",
+      "purchase_link": "https://www.example.com/guitar_2",
+      "image": "https://www.example.com/images/guitar_2.png",
+      "details": {
+        "brand": "Fender",
+        "body_type": "Hollow",
+        "top_material": "Spruce",
+        "neck_material": "Rosewood"
+      }
+    },
+    {
+      "name": "Ibanez Model 3",
+      "budget": 9500,
+      "genre": ["rock"],
+      "level": "beginner",
+      "price": "₹9,500",
+      "reviews": 4.0,
+      "youtube": "https://www.youtube.com/embed/dummy_video_3",
+      "purchase_link": "https://www.example.com/guitar_3",
+      "image": "https://www.example.com/images/guitar_3.png",
+      "details": {
+        "brand": "Ibanez",
+        "body_type": "Semi-Hollow",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Gibson SG Standard '61",
+      "budget": 150000,
+      "genre": ["rock", "metal"],
+      "level": "advanced",
+      "price": "₹250,000",
+      "reviews": 4.9,
+      "youtube": "https://www.youtube.com/embed/Z02edrpAnms",
+      "purchase_link": "https://www.gibson.com/Guitars/SG/Standard-61",
+      "image": "https://www.bajaao.com/cdn/shop/files/gibson-electric-guitars-blueberry-fade-gibson-sg-modern-6-string-electric-guitar-33401115279539.jpg?v=1692652543",
+      "details": {
+        "brand": "Gibson",
+        "body_type": "Solid",
+        "top_material": "Mahogany",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "PRS SE Standard 24",
+      "budget": 25000,
+      "genre": ["rock", "metal"],
+      "level": "intermediate",
+      "price": "₹25,000",
+      "reviews": 4.5,
+      "youtube": "https://www.youtube.com/embed/pcSv-V5MP3w",
+      "purchase_link": "https://prsguitars.com/se/standard24",
+      "image": "https://prsguitars.com/images/product/SE-Standard-24-Overview.jpg",
+      "details": {
+        "brand": "PRS",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Squier Classic Vibe '60s Stratocaster",
+      "budget": 20000,
+      "genre": ["rock", "blues"],
+      "level": "beginner",
+      "price": "₹20,000",
+      "reviews": 4.4,
+      "youtube": "https://www.youtube.com/embed/Qek3FEtUgYQ",
+      "purchase_link": "https://www.squierguitars.com/classic-vibe-60s-stratocaster",
+      "image": "https://www.squierguitars.com/sites/default/files/styles/large/public/images/guitars/classic-vibe-60s-stratocaster-front.png?itok=QzR7PRjs",
+      "details": {
+        "brand": "Squier",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Fender Telecaster American Professional II",
+      "budget": 75000,
+      "genre": ["rock", "country"],
+      "level": "advanced",
+      "price": "₹75,000",
+      "reviews": 4.8,
+      "youtube": "https://www.youtube.com/embed/3y-7t66T0pc",
+      "purchase_link": "https://www.fender.com/en-US/telecaster",
+      "image": "https://www.bajaao.com/cdn/shop/files/fender-electric-guitars-mercury-fender-american-professional-ii-telecaster-electric-guitar-29948395389107.jpg?v=1689692977",
+      "details": {
+        "brand": "Fender",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Yamaha A3R",
+      "budget": 45000,
+      "genre": ["acoustic", "folk"],
+      "level": "advanced",
+      "price": "₹45,000",
+      "reviews": 4.7,
+      "youtube": "https://www.youtube.com/embed/2MfS61Yc9EY",
+      "purchase_link": "https://in.yamaha.com/products/musical_instruments/guitars_basses/acoustic_guitars/a3r.html",
+      "image": "https://www.yamaha.com/sites/default/files/A3R-front.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Dreadnought",
+        "top_material": "Solid Sitka Spruce",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "Gretsch G2622 Streamliner",
+      "budget": 35000,
+      "genre": ["rock", "jazz"],
+      "level": "intermediate",
+      "price": "₹35,000",
+      "reviews": 4.6,
+      "youtube": "https://www.youtube.com/embed/O9aI2yErGg4",
+      "purchase_link": "https://www.gretschguitars.com/g2622-streamliner",
+      "image": "https://www.gretschguitars.com/images/guitars/g2622.jpg",
+      "details": {
+        "brand": "Gretsch",
+        "body_type": "Hollow",
+        "top_material": "Laminate Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Epiphone Riviera P93",
+      "budget": 45000,
+      "genre": ["blues", "rock"],
+      "level": "intermediate",
+      "price": "₹45,000",
+      "reviews": 4.7,
+      "youtube": "https://www.youtube.com/embed/tfiF2oGthZA",
+      "purchase_link": "https://www.epiphone.com/Products/Archtop/Riviera-P93.aspx",
+      "image": "https://www.epiphone.com/media/epiphone/Riviera_P93_2019.png",
+      "details": {
+        "brand": "Epiphone",
+        "body_type": "Hollow",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "Ibanez Artcore AF75",
+      "budget": 30000,
+      "genre": ["jazz", "blues"],
+      "level": "beginner",
+      "price": "₹30,000",
+      "reviews": 4.5,
+      "youtube": "https://www.youtube.com/embed/Jbb2QZ2ab_4",
+      "purchase_link": "https://www.ibanez.com/us/products/detail/artcore-af75-lb-5000",
+      "image": "https://www.ibanez.com/images/artcore-af75.jpg",
+      "details": {
+        "brand": "Ibanez",
+        "body_type": "Hollow",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "Fender American Ultra Stratocaster",
+      "budget": 95000,
+      "genre": ["rock", "blues"],
+      "level": "advanced",
+      "price": "₹95,000",
+      "reviews": 4.9,
+      "youtube": "https://www.youtube.com/embed/vxxW3Jw58l8",
+      "purchase_link": "https://www.fender.com/en-US/stratocaster/american-ultra",
+      "image": "https://www.bajaao.com/cdn/shop/files/fender-electric-guitars-ultra-burst-fender-american-ultra-stratocaster-sss-electric-guitar-13779258277960.jpg?v=1695277955",
+      "details": {
+        "brand": "Fender",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "PRS SE Custom 24",
+      "budget": 40000,
+      "genre": ["rock", "metal"],
+      "level": "intermediate",
+      "price": "₹40,000",
+      "reviews": 4.8,
+      "youtube": "https://www.youtube.com/embed/dOgEqvM6HOA",
+      "purchase_link": "https://prsguitars.com/se/custom24",
+      "image": "https://prsguitars.com/images/product/SE-Custom-24-front.jpg",
+      "details": {
+        "brand": "PRS",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Yamaha Pacifica 212V",
+      "budget": 25000,
+      "genre": ["rock", "metal"],
+      "level": "beginner",
+      "price": "₹25,000",
+      "reviews": 4.4,
+      "youtube": "https://www.youtube.com/embed/qXrxI2N_qI8",
+      "purchase_link": "https://in.yamaha.com/products/musical_instruments/guitars_basses/electric_guitars/pacifica_212v.html",
+      "image": "https://www.yamaha.com/sites/default/files/Pacifica212V-front.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Jackson JS32 Dinky",
+      "budget": 28000,
+      "genre": ["metal", "hard rock"],
+      "level": "beginner",
+      "price": "₹28,000",
+      "reviews": 4.3,
+      "youtube": "https://www.youtube.com/embed/ZUxxdd8-wyg",
+      "purchase_link": "https://www.jacksonguitars.com/gear/series/js-32-dinky",
+      "image": "https://www.jacksonguitars.com/images/js32-dinky.jpg",
+      "details": {
+        "brand": "Jackson",
+        "body_type": "Solid",
+        "top_material": "Poplar",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "ESP LTD EC-256",
+      "budget": 32000,
+      "genre": ["metal", "hard rock"],
+      "level": "intermediate",
+      "price": "₹32,000",
+      "reviews": 4.5,
+      "youtube": "https://www.youtube.com/embed/9OYyVnR56cM",
+      "purchase_link": "https://www.espguitars.com/products/12214-ec-256",
+      "image": "https://www.espguitars.com/uploads/product_images/EC-256.png",
+      "details": {
+        "brand": "ESP",
+        "body_type": "Solid",
+        "top_material": "Mahogany",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "Squier by Fender Bullet Stratocaster",
+      "budget": 15000,
+      "genre": ["rock", "blues"],
+      "level": "beginner",
+      "price": "₹15,000",
+      "reviews": 4.2,
+      "youtube": "https://www.youtube.com/embed/lq6VmkbB3qA",
+      "purchase_link": "https://www.squierguitars.com/bullet-stratocaster",
+      "image": "https://www.squierguitars.com/sites/default/files/styles/large/public/images/guitars/bullet-stratocaster-front.png?itok=8VZ_F1Gn",
+      "details": {
+        "brand": "Squier",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Guild Starfire IV",
+      "budget": 60000,
+      "genre": ["blues", "jazz"],
+      "level": "advanced",
+      "price": "₹60,000",
+      "reviews": 4.8,
+      "youtube": "https://www.youtube.com/embed/W3iFXyx6Lmw",
+      "purchase_link": "https://www.guildguitars.com/starfire-iv",
+      "image": "https://www.guildguitars.com/images/guitars/starfire-IV.jpg",
+      "details": {
+        "brand": "Guild",
+        "body_type": "Hollow",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "Epiphone Les Paul Standard",
+      "budget": 35000,
+      "genre": ["rock", "metal"],
+      "level": "intermediate",
+      "price": "₹35,000",
+      "reviews": 4.4,
+      "youtube": "https://www.youtube.com/embed/QpJt5J1bZrA",
+      "purchase_link": "https://www.epiphone.com/Products/Les-Paul/Les-Paul-Standard.aspx",
+      "image": "https://www.epiphone.com/media/epiphone/LesPaulStandard_2022.png",
+      "details": {
+        "brand": "Epiphone",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Mahogany"
+      }
+    },
+    {
+      "name": "Yamaha Pacifica 112V",
+      "budget": 30000,
+      "genre": ["rock", "blues"],
+      "level": "intermediate",
+      "price": "₹29,000",
+      "reviews": 4.6,
+      "youtube": "https://www.youtube.com/embed/xvU4yZdvE9M",
+      "purchase_link": "https://in.yamaha.com/products/musical_instruments/guitars_basses/electric_guitars/pacifica_112v/index.html",
+      "image": "https://m.media-amazon.com/images/I/5157q6LHe8L._SY679_.jpg",
+      "details": {
+        "brand": "Yamaha",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "PRS SE Standard 24",
+      "budget": 70000,
+      "genre": ["rock", "metal", "blues"],
+      "level": "intermediate",
+      "price": "₹65,000",
+      "reviews": 4.7,
+      "youtube": "https://www.youtube.com/embed/0UqTq4jf-RI",
+      "purchase_link": "https://prsguitars.com/se/standard24",
+      "image": "https://www.bajaao.com/cdn/shop/files/prs-electric-guitars-black-cherry-prs-se-ce-24-6-string-electric-guitar-with-gigbag-33876656718003.jpg?v=1743169826",
+      "details": {
+        "brand": "PRS",
+        "body_type": "Solid",
+        "top_material": "Maple",
+        "neck_material": "Maple"
+      }
+    },
+    
+    {
+      "name": "Fender Player Telecaster",
+      "budget": 80000,
+      "genre": ["rock", "blues"],
+      "level": "advanced",
+      "price": "₹75,000",
+      "reviews": 4.8,
+      "youtube": "https://www.youtube.com/embed/Q9ru5zN8aO4",
+      "purchase_link": "https://www.fender.com/en-US/electric-guitars/telecaster/player-telecaster",
+      "image": "https://www.bajaao.com/cdn/shop/files/fender-electric-guitars-butterscotch-blonde-maple-fender-player-telecaster-6-string-electric-guitar-33516865028275.jpg?v=1743172306",
+      "details": {
+        "brand": "Fender",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Fender Player Stratocaster",
+      "budget": 80000,
+      "genre": ["rock", "blues"],
+      "level": "intermediate",
+      "price": "₹75,000",
+      "reviews": 4.7,
+      "youtube": "https://www.youtube.com/embed/7XxIiFj9Xl4",
+      "purchase_link": "https://www.fender.com/en-US/stratocaster",
+      "image": "https://www.bajaao.com/cdn/shop/files/fender-electric-guitars-3-tone-sunburst-pau-ferro-fender-player-stratocaster-hss-electric-guitar-33519728853171.jpg?v=1742048272",
+      "details": {
+        "brand": "Fender",
+        "body_type": "Solid",
+        "top_material": "Alder",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "ESP LTD EC-256",
+      "budget": 40000,
+      "genre": ["metal", "rock"],
+      "level": "intermediate",
+      "price": "₹40,000",
+      "reviews": 4.3,
+      "youtube": "https://www.youtube.com/embed/pktV1gxn2n8",
+      "purchase_link": "https://www.espguitars.com/ltd/ec-256",
+      "image": "https://m.media-amazon.com/images/I/615wW1DNZvL._SX522_.jpg",
+      "details": {
+        "brand": "ESP",
+        "body_type": "Solid",
+        "top_material": "Mahogany",
+        "neck_material": "Maple"
+      }
+    },
+    {
+      "name": "Ibanez RG550",
+      "budget": 80000,
+      "genre": ["rock", "metal"],
+      "level": "advanced",
+      "price": "₹79,500",
+      "reviews": 4.7,
+      "youtube": "https://www.youtube.com/embed/xI4JlSKlPqY",
+      "purchase_link": "https://www.ibanez.com/usa/products/detail/rg550-3002",
+      "image": "https://www.bajaao.com/cdn/shop/files/ibanez-electric-guitars-road-flare-red-ibanez-rg550-rg-genesis-collection-6-string-electric-guitar-31438077100211.jpg?v=1736391157",
+      "details": {
+        "brand": "Ibanez",
+        "body_type": "Solid",
+        "top_material": "Basswood",
+        "neck_material": "Maple"
+      }
+    }
+  ]
