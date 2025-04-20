@@ -1,5 +1,8 @@
 # 🎸 Guitar-Guru
 
+GuitarGuru is a smart, interactive web-based guitar recommendation system designed for aspiring and experienced musicians. It tailors suggestions based on user preferences such as budget, genre, and experience level. With a sleek UI, blockchain-inspired review tracking, and personalization features, GuitarGuru makes the process of finding the perfect guitar easier, faster, and more enjoyable.
+
+
 🔥 Features
 
 • Dynamic Guitar Recommendations (filtered by budget, genre, and level)
@@ -40,11 +43,10 @@ To run the project locally:
   
 2. Open index.html in your browser
 
-- M
-
-- ake sure script.js, style.css, and guitars.json are in the same directory.
+- Make sure script.js, style.css, and guitars.json are in the same directory.
 
 Tip: Use a Live Server extension in VS Code for best performance.
+
 
 📁 Folder Structure
 
@@ -59,6 +61,7 @@ guitarguru/
 ├── guitars.json       # Guitar dataset
 
 ├── README.md          # Project documentation
+
 
 
 
@@ -79,6 +82,7 @@ guitarguru/
 •	(Optional: GSAP, Chart.js, Firebase in future scope)
 
 
+
 📌 Future Scope
 
 •	Real-time DB (e.g., Firebase) for storing and managing reviews
@@ -96,11 +100,13 @@ guitarguru/
 • Admin dashboard to manage guitars.json visually
 
 
+
 👨‍💻 Developer
 
 • Name: Sunnam Mehta
 
 • Email: Sunnam13579@gmail.com 
+
 
 📄 License
 
